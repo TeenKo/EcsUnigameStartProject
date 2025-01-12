@@ -1,7 +1,175 @@
 fileFormatVersion: 2
 guid: 7fabe513baaa11b4f9928a5d6d9f70f9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8761984823307235157
+    second: GoldMedal
+  - first:
+      213: -5050193814326524265
+    second: BrownBag
+  - first:
+      213: -99369412881945712
+    second: BlueBag
+  - first:
+      213: -4866859266128222550
+    second: Calendar
+  - first:
+      213: -7247196074413553601
+    second: CalendarCheck
+  - first:
+      213: -7082057677821794114
+    second: ChatBubble
+  - first:
+      213: -91849145159716564
+    second: TreasureChest
+  - first:
+      213: 4987546592102065570
+    second: VideoIcon
+  - first:
+      213: 3592869665418958795
+    second: LockedChest
+  - first:
+      213: 1437330425129919029
+    second: CrownChest
+  - first:
+      213: -5159881762681719532
+    second: SkullChest
+  - first:
+      213: -3174138191366020839
+    second: Clover4Leaf
+  - first:
+      213: 6946195008617292404
+    second: Clover3Leaf
+  - first:
+      213: 899566770896289919
+    second: Explosion
+  - first:
+      213: -8034971595371714111
+    second: GoldTicket
+  - first:
+      213: -7569000773455713742
+    second: CrownIcon
+  - first:
+      213: -4344934500039889066
+    second: SkullCastle
+  - first:
+      213: -6739512004264015744
+    second: GlobeIcon
+  - first:
+      213: 1357139746037086246
+    second: LightningBolt
+  - first:
+      213: 6459133576099911451
+    second: GhostsIcon
+  - first:
+      213: 3822393341732516579
+    second: GearIcon
+  - first:
+      213: 5917975053417868483
+    second: PantsIcon
+  - first:
+      213: -1263057074775329144
+    second: DiamondGem
+  - first:
+      213: -2650849993049054707
+    second: TicketIcon
+  - first:
+      213: 6760995708683607376
+    second: PurpleGem
+  - first:
+      213: -736569787945920422
+    second: RedGem
+  - first:
+      213: 9041736805877330814
+    second: BlueStar
+  - first:
+      213: 6656315263224168330
+    second: GiftBoxRed
+  - first:
+      213: 2157354716856764056
+    second: GiftBoxBlue
+  - first:
+      213: -2170053188948161766
+    second: HeartIcon
+  - first:
+      213: 8781583474269778591
+    second: KeyIcon
+  - first:
+      213: 5785541867499111414
+    second: TrophyIcon
+  - first:
+      213: -979101776072164297
+    second: Heart
+  - first:
+      213: 9015780721077590122
+    second: KeyGold
+  - first:
+      213: 4026679703369623860
+    second: Envelope
+  - first:
+      213: 8748121057623063076
+    second: MapIcon
+  - first:
+      213: 6921912127105058262
+    second: BronzeMedal
+  - first:
+      213: 2323144592990465539
+    second: SilverMedal
+  - first:
+      213: 5266608612022960976
+    second: GoldMedal
+  - first:
+      213: 7040136440565637410
+    second: TrophyGold
+  - first:
+      213: 9185451955170143973
+    second: FirstPlaceMedal
+  - first:
+      213: -3792149766389448470
+    second: SilverPlaceMedal
+  - first:
+      213: -5605394953558841824
+    second: SecondPlaceMedal
+  - first:
+      213: 2681711551026776383
+    second: PodiumIcon
+  - first:
+      213: 3886829769094935123
+    second: ChecklistIcon
+  - first:
+      213: 1567737936049551150
+    second: MoneyStack
+  - first:
+      213: -58214260647835769
+    second: CoinGold
+  - first:
+      213: -4810025644838437123
+    second: TrophyBlue
+  - first:
+      213: -4519287850543772152
+    second: ShopIcon
+  - first:
+      213: 7586079090707635554
+    second: StarBlue
+  - first:
+      213: -8804076603283091794
+    second: StarOrange
+  - first:
+      213: -5903031872513291687
+    second: StarRed
+  - first:
+      213: -6980208834506050442
+    second: StarYellow
+  - first:
+      213: -6829828943541966179
+    second: StarPurple
+  - first:
+      213: -4445961606543930542
+    second: StarGray
+  - first:
+      213: 2895298590916603133
+    second: VideoClapper
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -39,7 +207,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -97,12 +265,12 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 51
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
@@ -136,7 +304,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 0
+      name: GoldMedal
       rect:
         serializedVersion: 2
         x: 0
@@ -144,21 +312,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1581c7ac945e4af4492c31682728eab5
-      internalID: -754529182
+      spriteID: 07c74f58a6f608b4c8c9dafae9fc16dc
+      internalID: 228179608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1
+      name: BrownBag
       rect:
         serializedVersion: 2
         x: 256
@@ -166,21 +334,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40ea92efc47ed99469bd91397305cf5d
-      internalID: -1803483647
+      spriteID: 7382c6d72425dc54888b48571dc61011
+      internalID: 156755208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2
+      name: BlueBag
       rect:
         serializedVersion: 2
         x: 512
@@ -188,21 +356,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ae616696448d414cb57425dacf70220
-      internalID: 1112141777
+      spriteID: 6fa92c8395e6e534bb03e94185d9cde7
+      internalID: -2047036520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3
+      name: Calendar
       rect:
         serializedVersion: 2
         x: 768
@@ -210,21 +378,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f5655556e0032a4886dc74850b0dcad
-      internalID: 847523906
+      spriteID: 689b8bd81280b2243bea3e9266deb669
+      internalID: -487012938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 4
+      name: CalendarCheck
       rect:
         serializedVersion: 2
         x: 1024
@@ -232,21 +400,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: deaf50b39daa31f49bba6482537034c5
-      internalID: -488693472
+      spriteID: 8118377e32833604fba9511f3aa118b7
+      internalID: 1338215235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 5
+      name: ChatBubble
       rect:
         serializedVersion: 2
         x: 1280
@@ -254,21 +422,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924af78079f67bb408da181b11a8aac2
-      internalID: -1677499709
+      spriteID: 5b74c41ad4753894dbaba5f9b0fc5e33
+      internalID: -472022986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6
+      name: TreasureChest
       rect:
         serializedVersion: 2
         x: 1536
@@ -276,21 +444,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 910619d73fa203b458c7b5e092acbb17
-      internalID: -1975388074
+      spriteID: dbf0a8784aff09b4bb503517e1d4faa4
+      internalID: -2038071004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7
+      name: VideoIcon
       rect:
         serializedVersion: 2
         x: 1792
@@ -298,43 +466,43 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db2a5f611cac46647a24f5797e10b429
-      internalID: 856460724
+      spriteID: f823e07f1a3bfea4da703cf0b685e6c9
+      internalID: -366974336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8
+      name: LockedChest
       rect:
         serializedVersion: 2
         x: 0
-        y: 1282
+        y: 1280
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6cf2eb4a4d727440bb24a5b7015b9ad
-      internalID: 419374571
+      spriteID: dc42e332873c94847998a65055f40491
+      internalID: 1710970519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9
+      name: CrownChest
       rect:
         serializedVersion: 2
         x: 256
@@ -342,21 +510,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c73d5cd24bdb61145ab692b6e91063a7
-      internalID: -352259577
+      spriteID: 93a6e8838d7e61b45967de02db3554b4
+      internalID: -2005159263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 10
+      name: SkullChest
       rect:
         serializedVersion: 2
         x: 512
@@ -364,21 +532,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bcb12f5ce2d8e746a27250e791bece8
-      internalID: 1221804501
+      spriteID: aaca97c2bc272dc4d9c7efecbe287fcc
+      internalID: 478639171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 11
+      name: Clover4Leaf
       rect:
         serializedVersion: 2
         x: 768
@@ -386,21 +554,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc88913be586cfb4d969ce43e502bf5a
-      internalID: 1407133189
+      spriteID: f28ada1e339ec814d8e6874499002e16
+      internalID: -1902124704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 12
+      name: Clover3Leaf
       rect:
         serializedVersion: 2
         x: 1024
@@ -408,21 +576,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5232cebb48b633244b8a4a78bb456865
-      internalID: -637383254
+      spriteID: 9001b56b544e61b4890b21490c1be576
+      internalID: 115905416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 13
+      name: Explosion
       rect:
         serializedVersion: 2
         x: 1280
@@ -430,21 +598,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5db48b27345e19d4094d055b83cc4ede
-      internalID: -3762166
+      spriteID: 724d713abc5928a4ba9aa244067940d0
+      internalID: -802430337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 14
+      name: GoldTicket
       rect:
         serializedVersion: 2
         x: 1536
@@ -452,21 +620,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6487f9a6f849794498a2122ee6caff80
-      internalID: 795601242
+      spriteID: 4aeb36edaf0969147949183a10186c22
+      internalID: -586726196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15
+      name: CrownIcon
       rect:
         serializedVersion: 2
         x: 1792
@@ -474,21 +642,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 020cc98fa20d5be41bd977625d0c5b8e
-      internalID: 1653136194
+      spriteID: 7134098d86772bd43b58cf8a37a22077
+      internalID: -1766995785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16
+      name: SkullCastle
       rect:
         serializedVersion: 2
         x: 0
@@ -496,21 +664,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7323f2755b4d6c84693a3c460028d5e6
-      internalID: -1538347344
+      spriteID: 2f371c61547b74842aa85f6297006917
+      internalID: 2097814164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 17
+      name: GlobeIcon
       rect:
         serializedVersion: 2
         x: 256
@@ -518,21 +686,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb3a8d153f3ce0b409a5d043371b7e2e
-      internalID: 485212399
+      spriteID: 6a77286cc3daf1b42a13c667b28edd8d
+      internalID: -1582914621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 18
+      name: LightningBolt
       rect:
         serializedVersion: 2
         x: 512
@@ -540,21 +708,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4db17bf841741247a535e868cd0415c
-      internalID: 995923269
+      spriteID: ee65266dd49769147804149d35a2d95b
+      internalID: 853561579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 19
+      name: GhostsIcon
       rect:
         serializedVersion: 2
         x: 768
@@ -562,21 +730,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abe2899203bb317449b1bb6c76eb02da
-      internalID: 1427717393
+      spriteID: b87e6d242dd6bec40bbc7f96c4c1eff8
+      internalID: 605184057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 20
+      name: GearIcon
       rect:
         serializedVersion: 2
         x: 1024
@@ -584,21 +752,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29098e3ce01de4940a803aeda2182bda
-      internalID: 1122187278
+      spriteID: 56631ca5c7fe1b5448be47927f78de8e
+      internalID: 1184488814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 21
+      name: PantsIcon
       rect:
         serializedVersion: 2
         x: 1280
@@ -606,21 +774,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd153100b32f5b2498af5f9e830ee57e
-      internalID: -2004141745
+      spriteID: 046cd1adcd7c3e7429b44bacbda6e7f7
+      internalID: 205766077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 22
+      name: DiamondGem
       rect:
         serializedVersion: 2
         x: 1536
@@ -628,21 +796,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4aad15f79d085b54ba5426c0fa66d080
-      internalID: 2061385909
+      spriteID: 7479a288379bfa140858566383463704
+      internalID: -328315376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 23
+      name: TicketIcon
       rect:
         serializedVersion: 2
         x: 1792
@@ -650,21 +818,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39b431a6d6ab998459cce5296d1acd0b
-      internalID: -1348050483
+      spriteID: 39d08c5254f596d45a9cd92ec4074feb
+      internalID: 948459823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 24
+      name: PurpleGem
       rect:
         serializedVersion: 2
         x: 0
@@ -672,21 +840,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63b8be9060dfe6c44b2630c7364fd01a
-      internalID: -2088803425
+      spriteID: 24397ae1e8674ed478aff4be37ebf094
+      internalID: 1739730580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 25
+      name: RedGem
       rect:
         serializedVersion: 2
         x: 256
@@ -694,21 +862,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0429acc2a7d25694d82bff3ca80d9a08
-      internalID: -539688071
+      spriteID: eb68718d532f51446a40ffb8ce5fa6c0
+      internalID: -1529914511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 26
+      name: BlueStar
       rect:
         serializedVersion: 2
         x: 512
@@ -716,21 +884,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a777cfe08c6e62c4b84b444948204ac3
-      internalID: -2055347231
+      spriteID: 3811f6172cac0c749b8947af9bd928a4
+      internalID: -504729343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 27
+      name: GiftBoxRed
       rect:
         serializedVersion: 2
         x: 768
@@ -738,21 +906,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4acbc7f94c33da5468fd8d5416850c50
-      internalID: -1192529217
+      spriteID: 4f830db49fb91a94d8d48261dbd3a217
+      internalID: -917526823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 28
+      name: GiftBoxBlue
       rect:
         serializedVersion: 2
         x: 1024
@@ -760,21 +928,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa40b5cc13a0a6e458736205f3d451a5
-      internalID: -1985053860
+      spriteID: 652246cb4f4b76b4d81458e80ec3362a
+      internalID: 1847561987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 29
+      name: HeartIcon
       rect:
         serializedVersion: 2
         x: 1280
@@ -782,21 +950,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d911a24e3183f584c89271c5dcebce3c
-      internalID: -2136847141
+      spriteID: 0ed834f220d4369429a07b7ccfa9c10d
+      internalID: 1564292532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 30
+      name: KeyIcon
       rect:
         serializedVersion: 2
         x: 1536
@@ -804,21 +972,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e329e6f3d7a6bf42860eab7378f79a5
-      internalID: 2367576
+      spriteID: 9ffdbe9a2b012214d9046e5934fcb91f
+      internalID: 750814845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 31
+      name: TrophyIcon
       rect:
         serializedVersion: 2
         x: 1792
@@ -826,21 +994,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6b39bebcc58bc74f8983ff86f953c51
-      internalID: 2072491328
+      spriteID: 281466f063cf112408740647e99d5246
+      internalID: -793520750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 32
+      name: Heart
       rect:
         serializedVersion: 2
         x: 0
@@ -848,21 +1016,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c6ca7265475c6a43a7200bc52738afb
-      internalID: -1504364445
+      spriteID: 66417dbbac21ecf4b8766d9b48b87710
+      internalID: 85222807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 33
+      name: KeyGold
       rect:
         serializedVersion: 2
         x: 256
@@ -870,21 +1038,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82cda77a98ae1a84da04d9db47978ad1
-      internalID: 582818132
+      spriteID: 45f94088aa767874caddc5bd5278f275
+      internalID: -1581233833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 34
+      name: Envelope
       rect:
         serializedVersion: 2
         x: 512
@@ -892,21 +1060,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e748a3dc0e6c7e34d911f75a0c06868e
-      internalID: 1587337591
+      spriteID: f788362d4927dc64fbdd89808d2eb518
+      internalID: -764527380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 35
+      name: MapIcon
       rect:
         serializedVersion: 2
         x: 768
@@ -914,21 +1082,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b1757e64dc87d04082a9710d944c8b1
-      internalID: -168384986
+      spriteID: f8aea021f11004f4db1d8837dfec3651
+      internalID: 2092551200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 36
+      name: BronzeMedal
       rect:
         serializedVersion: 2
         x: 1024
@@ -936,21 +1104,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23ea1ea9b34ec3a46b6bf14343a0bec0
-      internalID: -1211821061
+      spriteID: ba595493ff2a37e40a5992a36a18b18b
+      internalID: -343470890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 37
+      name: SilverMedal
       rect:
         serializedVersion: 2
         x: 1280
@@ -958,43 +1126,43 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b657ed1fc6c52743a9f83b8529f594b
-      internalID: -1639230706
+      spriteID: 395b9403a482c814ca670e13475e7b95
+      internalID: -385067323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 38
+      name: GoldMedal
       rect:
         serializedVersion: 2
         x: 1536
-        y: 514
+        y: 512
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d50e0f16b0ef094aa4784ce569c8b98
-      internalID: -1430145685
+      spriteID: 0b3aeee2504a1e543a714d79b21fcf6d
+      internalID: -583274239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 39
+      name: TrophyGold
       rect:
         serializedVersion: 2
         x: 1792
@@ -1002,21 +1170,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd1725af429a8274c94254074a7129a9
-      internalID: -2015180096
+      spriteID: bd9ee2f94511ecc418f93d1308685277
+      internalID: -811434378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 40
+      name: FirstPlaceMedal
       rect:
         serializedVersion: 2
         x: 0
@@ -1024,21 +1192,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13a34857ec6b3da48b93e18f95eeb9e7
-      internalID: 973513786
+      spriteID: b8eb4190faf334648877e140509f5771
+      internalID: -1459424499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 41
+      name: SilverPlaceMedal
       rect:
         serializedVersion: 2
         x: 256
@@ -1046,65 +1214,65 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee62b34e71307a94b80587617886864e
-      internalID: 1783237321
+      spriteID: 938511d3937804a499538e3a11d053ac
+      internalID: 1589846816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 42
+      name: SecondPlaceMedal
       rect:
         serializedVersion: 2
         x: 512
-        y: 258
+        y: 256
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ac60426787ed71468acba7ff1574748
-      internalID: 1650568646
+      spriteID: 7478f9c18fead964e96758ebca56e266
+      internalID: -943811607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 43
+      name: PodiumIcon
       rect:
         serializedVersion: 2
         x: 768
-        y: 258
+        y: 256
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3868125ffad606e43b68790d24fd8871
-      internalID: 2131796573
+      spriteID: 4769266f669a32048bc774206b6b4682
+      internalID: -1340105972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 44
+      name: ChecklistIcon
       rect:
         serializedVersion: 2
         x: 1024
@@ -1112,21 +1280,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fdf428e043ffc84a8db690d7b0114bb
-      internalID: 308129306
+      spriteID: f253aedc963649e4398312e5e3a260e3
+      internalID: -1687708957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 45
+      name: MoneyStack
       rect:
         serializedVersion: 2
         x: 1280
@@ -1134,21 +1302,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bd7f34ba905ce04e9e30c54753d15a5
-      internalID: -1337471562
+      spriteID: 27bea0333197fc14e83a1d14b8e36b06
+      internalID: -2427772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 46
+      name: CoinGold
       rect:
         serializedVersion: 2
         x: 1536
@@ -1156,21 +1324,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 589ddb2e58bd34840b32d292f1d33cb0
-      internalID: -1660538773
+      spriteID: a55d4a898d9b98149ab81e8588069d55
+      internalID: -321372825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 47
+      name: TrophyBlue
       rect:
         serializedVersion: 2
         x: 1792
@@ -1178,21 +1346,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27c97b851f5514f40a7a0781cddce802
-      internalID: 1217390863
+      spriteID: 62a8687a1a5dfb54a8415f8b63c4f219
+      internalID: 977526979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 48
+      name: ShopIcon
       rect:
         serializedVersion: 2
         x: 0
@@ -1200,21 +1368,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74e32edb84ed65e45b0d7ff1ea97d8d1
-      internalID: -92859212
+      spriteID: dc538bf1a2ba7c4478d2320dbbe91089
+      internalID: 527592411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 49
+      name: StarBlue
       rect:
         serializedVersion: 2
         x: 256
@@ -1222,21 +1390,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f05ad88090085c04085317f86881fbfc
-      internalID: 663585244
+      spriteID: fbaf4da5a3ee51940831effd77549eef
+      internalID: -512775674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 50
+      name: StarOrange
       rect:
         serializedVersion: 2
         x: 512
@@ -1244,65 +1412,65 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4ebea0cfc6eb2742982f2bdddd1cfca
-      internalID: -646878506
+      spriteID: 075836ce5b84a244d884d9408e703927
+      internalID: -525924044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 51
+      name: StarRed
       rect:
         serializedVersion: 2
         x: 768
-        y: 3
+        y: 0
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2132e9fb085e0354c8b52df80028f382
-      internalID: 135087894
+      spriteID: 24605e696b61b4e43b88db572c085eb3
+      internalID: 1474878785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 52
+      name: StarYellow
       rect:
         serializedVersion: 2
         x: 1024
-        y: 2
+        y: 0
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4c938958683e804fabd56055c9fddfb
-      internalID: -933850623
+      spriteID: 612b5e74c1426974c82eb798df5b504c
+      internalID: -94836637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 53
+      name: StarPurple
       rect:
         serializedVersion: 2
         x: 1280
@@ -1310,21 +1478,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbc650213f010cf4dbcf39f291ca3ae6
-      internalID: 1578754612
+      spriteID: 26be87d5f88e2d543ad9961206ddc9c5
+      internalID: 2049670858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 54
+      name: StarGray
       rect:
         serializedVersion: 2
         x: 1536
@@ -1332,21 +1500,21 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d26f633940525c4abf55189aeae5706
-      internalID: -1796234554
+      spriteID: c8711cd4fb485b9438337ed117f96df4
+      internalID: 1081012997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 55
+      name: VideoClapper
       rect:
         serializedVersion: 2
         x: 1792
@@ -1354,15 +1522,15 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68a266d586b2ce740aa9ce7ef532825f
-      internalID: -581200087
+      spriteID: 714d735118a582d4aa389cff210d9117
+      internalID: 331581434
       vertices: []
       indices: 
       edges: []
@@ -1371,7 +1539,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 986159be31f53264b97f41db2961c452
+    spriteID: fd0ed07f9f964214fae06740343b4cf7
     internalID: 0
     vertices: []
     indices: 
@@ -1381,62 +1549,61 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      0: -754529182
-      1: -1803483647
-      10: 1221804501
-      11: 1407133189
-      12: -637383254
-      13: -3762166
-      14: 795601242
-      15: 1653136194
-      16: -1538347344
-      17: 485212399
-      18: 995923269
-      19: 1427717393
-      2: 1112141777
-      20: 1122187278
-      21: -2004141745
-      22: 2061385909
-      23: -1348050483
-      24: -2088803425
-      25: -539688071
-      26: -2055347231
-      27: -1192529217
-      28: -1985053860
-      29: -2136847141
-      3: 847523906
-      30: 2367576
-      31: 2072491328
-      32: -1504364445
-      33: 582818132
-      34: 1587337591
-      35: -168384986
-      36: -1211821061
-      37: -1639230706
-      38: -1430145685
-      39: -2015180096
-      4: -488693472
-      40: 973513786
-      41: 1783237321
-      42: 1650568646
-      43: 2131796573
-      44: 308129306
-      45: -1337471562
-      46: -1660538773
-      47: 1217390863
-      48: -92859212
-      5: -1677499709
-      50: -646878506
-      51: 135087894
-      52: -933850623
-      53: 1578754612
-      54: -1796234554
-      55: -581200087
-      6: -1975388074
-      7: 856460724
-      8: 419374571
-      9: -352259577
-      colorIcons_256x256_49: 663585244
+      BlueBag: -2047036520
+      BlueStar: -504729343
+      BronzeMedal: -343470890
+      BrownBag: 156755208
+      Calendar: -487012938
+      CalendarCheck: 1338215235
+      ChatBubble: -472022986
+      ChecklistIcon: -1687708957
+      Clover3Leaf: 115905416
+      Clover4Leaf: -1902124704
+      CoinGold: -321372825
+      CrownChest: -2005159263
+      CrownIcon: -1766995785
+      DiamondGem: -328315376
+      Envelope: -764527380
+      Explosion: -802430337
+      FirstPlaceMedal: -1459424499
+      GearIcon: 1184488814
+      GhostsIcon: 605184057
+      GiftBoxBlue: 1847561987
+      GiftBoxRed: -917526823
+      GlobeIcon: -1582914621
+      GoldMedal: 228179608
+      GoldTicket: -586726196
+      Heart: 85222807
+      HeartIcon: 1564292532
+      KeyGold: -1581233833
+      KeyIcon: 750814845
+      LightningBolt: 853561579
+      LockedChest: 1710970519
+      MapIcon: 2092551200
+      MoneyStack: -2427772
+      PantsIcon: 205766077
+      PodiumIcon: -1340105972
+      PurpleGem: 1739730580
+      RedGem: -1529914511
+      SecondPlaceMedal: -943811607
+      ShopIcon: 527592411
+      SilverMedal: -385067323
+      SilverPlaceMedal: 1589846816
+      SkullCastle: 2097814164
+      SkullChest: 478639171
+      StarBlue: -512775674
+      StarGray: 1081012997
+      StarOrange: -525924044
+      StarPurple: 2049670858
+      StarRed: 1474878785
+      StarYellow: -94836637
+      TicketIcon: 948459823
+      TreasureChest: -2038071004
+      TrophyBlue: 977526979
+      TrophyGold: -811434378
+      TrophyIcon: -793520750
+      VideoClapper: 331581434
+      VideoIcon: -366974336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

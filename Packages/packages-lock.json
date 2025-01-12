@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.annulusgames.unity-codegen": {
+      "version": "https://github.com/UnioGame/UnityCodeGen.git?path=/Assets/UnityCodeGen",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f938d8a010a32498bd5cf04187fa3caaa51c5d93"
+    },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,
@@ -56,6 +63,15 @@
         "com.unity.addressables": "1.1.5"
       },
       "hash": "f15c79e9d1b35309010afb88e7f376803af54390"
+    },
+    "com.unigame.uberenum": {
+      "version": "https://github.com/UnioGame/UberEnums.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.annulusgames.unity-codegen": "1.0.0"
+      },
+      "hash": "ab28f469e25645dacfa106afc5ca3b5cc7aad8a5"
     },
     "com.unity.2d.animation": {
       "version": "10.1.4",
