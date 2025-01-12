@@ -1,12 +1,9 @@
-[submodule "Assets/Game.Modules/UniModules"]
-	path = Assets/Game.Modules/UniModules
-	url = https://github.com/UnioGame/UniModules.git
 [submodule "Assets/Game.Modules/LeoECS.Lite.Features"]
 	path = Assets/Game.Modules/LeoECS.Lite.Features
 	url = https://github.com/UnioGame/LeoECS.Lite.Features.git
 [submodule "Assets/Game.Modules/UniGame.LeoEcsLite"]
 	path = Assets/Game.Modules/UniGame.LeoEcsLite
 	url = https://github.com/UnioGame/UniGame.LeoEcsLite.git
-[submodule "Assets/Game.Modules/UniGame.CoreModules"]
-	path = Assets/Game.Modules/UniGame.CoreModules
-	url = https://github.com/UnioGame/UniGame.CoreModules.git
+[submodule "Assets/Game.Modules/UniModules"]
+	path = Assets/Game.Modules/UniModules
+	url = https://github.com/UnioGame/UniModules.git
