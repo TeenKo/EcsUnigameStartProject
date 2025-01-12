@@ -261,8 +261,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Ecs.Ability.AbilityAdj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unigame.typeconverters.runtime", "unigame.typeconverters.runtime.csproj", "{143a4a2f-0e0e-eeeb-ead9-1152f564f79a}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Ecs.Ui.TestUi", "Game.Ecs.Ui.TestUi.csproj", "{64723b25-22f4-ef34-48aa-827548cab678}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unigame.buildpipeline.tests", "unigame.buildpipeline.tests.csproj", "{1f3f691c-1d16-a402-1395-cfa4dd7e3b38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unigame.uisystem.modelsviewsmap.runtime", "unigame.uisystem.modelsviewsmap.runtime.csproj", "{f8c6ec78-4086-0667-abe4-8c8978a269cb}"
@@ -622,8 +620,6 @@ Global
 		{04370387-6a2c-0719-b21f-96c92e46e51f}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{143a4a2f-0e0e-eeeb-ead9-1152f564f79a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{143a4a2f-0e0e-eeeb-ead9-1152f564f79a}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64723b25-22f4-ef34-48aa-827548cab678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64723b25-22f4-ef34-48aa-827548cab678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1f3f691c-1d16-a402-1395-cfa4dd7e3b38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1f3f691c-1d16-a402-1395-cfa4dd7e3b38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f8c6ec78-4086-0667-abe4-8c8978a269cb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
