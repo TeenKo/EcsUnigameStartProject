@@ -327,6 +327,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unigame.codewriter.examples
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unigame.fluentftp", "unigame.fluentftp.csproj", "{56c6b841-10ce-7546-03d7-60dc1011cc48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game.ecs.item", "game.ecs.item.csproj", "{97a4dc63-4d37-774b-0f11-7c893225c630}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Ecs.ShakeEffect", "Game.Ecs.ShakeEffect.csproj", "{95d89e51-19e7-24f1-c203-eb1f003848b0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Ecs.GameEffects.PushEffect", "Game.Ecs.GameEffects.PushEffect.csproj", "{14d0a7a6-b76f-9d65-12c4-cf03338845b6}"
@@ -678,6 +680,8 @@ Global
 		{3dc1771a-6e8c-8df6-cb44-19fb08bfb439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56c6b841-10ce-7546-03d7-60dc1011cc48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{56c6b841-10ce-7546-03d7-60dc1011cc48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97a4dc63-4d37-774b-0f11-7c893225c630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97a4dc63-4d37-774b-0f11-7c893225c630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95d89e51-19e7-24f1-c203-eb1f003848b0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{95d89e51-19e7-24f1-c203-eb1f003848b0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14d0a7a6-b76f-9d65-12c4-cf03338845b6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
